@@ -1,0 +1,33 @@
+.logo {
+  width: 70px;
+}
+.kartu {
+  width: 100%;
+}
+.hasil {
+  width: 100%;
+}
+.Judul {
+  font-size: 30px;
+  font-weight: 900;
+}
+.Judul-isi {
+  font-size: 15px;
+}
+.Judul-update {
+  font-size: 12px;
+  font-weight: 300;
+}
+.badge {
+  background-color: red;
+  color: white;
+}
+.font-warna {
+  color: #138d8c;
+}
+.gambarSearch {
+  width: 25px;
+}
+.nav-item {
+  font-size: 14px;
+}
